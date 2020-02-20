@@ -90,5 +90,17 @@
     <ClCompile Include="从尾到头打印链表.cpp">
       <Filter>源文件\链表</Filter>
     </ClCompile>
+    <ClCompile Include="链表中倒数第k个节点.cpp">
+      <Filter>源文件\链表</Filter>
+    </ClCompile>
+    <ClCompile Include="反转链表.cpp">
+      <Filter>源文件\链表</Filter>
+    </ClCompile>
+    <ClCompile Include="合并两个排序的链表.cpp">
+      <Filter>源文件\链表</Filter>
+    </ClCompile>
+    <ClCompile Include="复杂链表的复制.cpp">
+      <Filter>源文件\链表</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
